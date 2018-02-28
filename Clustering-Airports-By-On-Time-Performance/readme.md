@@ -4,7 +4,9 @@ For this project, I examined data on global airport delays over an 11 year perio
 
 For the purpose of clustering and visualization, I used PCA to reduce the dimensionality of my feature space from 19 original features down to just 2 and then three principal components. This dataset is particularly amenable to PCA and I was able to describe just under 80% of the variance in the original feature space using just two components. 
 
-![Scatter Plot of two princial components showing strong and weak performing airports](./assets/PCA.png)
+<p align='center'>
+	![Scatter Plot of two princial components showing strong and weak performing airports](./assets/PCA.png)
+</p>
 
 I ultimately settled upon two clusters for my k-means. An analysis of the airports in both clusters was, perhaps, unsurprising. One cluster - the offending cluster - performs worse on every conceivable metric - higher departure cancellations, higher arrival cancellations, longer average taxi times, greater gate departure delays etc. The airports in this poorly performing cluster include JFK, LGA, EWR, LAX, ORD, DEN DFW and others. The other cluster, which always  
 
