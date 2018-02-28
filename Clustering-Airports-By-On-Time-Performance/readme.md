@@ -34,15 +34,15 @@ My next point of analysis was to see which were the absolute worst offenders. I 
 
 ### Naughty List
 
-**JFK** - John F. Kennedy International Airport (NYC)
-**DFW** - Dallas Fort Worth International Airport
-**EWR** - Newark Liberty International Airport
-**IAH** - George Bush Intercontinental Airport (Houston)
-**LGA** - Laguardia Airport (NYC)
-**PHL** - Philadelphia International Airport
-**LAX** - Los Angeles International Airport
-**DEN** - Denver International Airport
-**ORD** - O'Hare International Airport (Chicago)
+- **JFK** - John F. Kennedy International Airport (NYC)
+- **DFW** - Dallas Fort Worth International Airport
+- **EWR** - Newark Liberty International Airport
+- **IAH** - George Bush Intercontinental Airport (Houston)
+- **LGA** - Laguardia Airport (NYC)
+- **PHL** - Philadelphia International Airport
+- **LAX** - Los Angeles International Airport
+- **DEN** - Denver International Airport
+- **ORD** - O'Hare International Airport (Chicago)
 
 Conversely, there were many airports that performed excellently according to my K means model in all 11 years of the data. That list of airports contained 45 distinct airports and included: 
 
