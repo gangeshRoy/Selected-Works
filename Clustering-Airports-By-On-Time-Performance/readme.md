@@ -48,15 +48,15 @@ Conversely, there were many airports that performed excellently according to my 
 
 ### Nice List
 
-**PDX** - Portland International Airport
-**SEA** - Seattle Tacoma International Airport
-**BDL** - Bradley International Airport (Connecticut)
-**STL** - St. Louis Lambert International Airport
-**BUR** - Hollywood Burbank Airport
-**RSW** - Southwest Florida International Airport
-**SLC** - Salt Lake International Airport
-**SMF** - Sacramento County Airport
-**TPA** - Tampa International Airport
+- **PDX** - Portland International Airport
+- **SEA** - Seattle Tacoma International Airport
+- **BDL** - Bradley International Airport (Connecticut)
+- **STL** - St. Louis Lambert International Airport
+- **BUR** - Hollywood Burbank Airport
+- **RSW** - Southwest Florida International Airport
+- **SLC** - Salt Lake International Airport
+- **SMF** - Sacramento County Airport
+- **TPA** - Tampa International Airport
 
 ## Discussion
 
